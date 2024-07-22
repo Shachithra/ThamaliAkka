@@ -1,0 +1,13 @@
+{
+  "name": "web-site-frontend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "php -S 127.0.0.1:3600 -t ./",
+    "dev": "php -S 127.0.0.1:3600 -t ./"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
